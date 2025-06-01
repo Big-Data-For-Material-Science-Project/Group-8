@@ -1,0 +1,4 @@
+train: ../mos2_preprocessed_images/train
+val: ../mos2_preprocessed_images/val
+nc: 1
+names: [mos2_preprocessed]

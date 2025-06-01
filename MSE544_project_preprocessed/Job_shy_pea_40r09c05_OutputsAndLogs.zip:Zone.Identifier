@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://ml.azure.com/
+HostUrl=https://storagezbyw.blob.core.windows.net/azureml/ArtifactZip/ExperimentRun/dcid.mos2_preprocessed_defect_detection_yolo_training_1748744865650.zip?sv=2019-07-07&sr=b&sig=tBfD8b1TzZqFDek29mQYhHL%2B8DIARg1%2Bc1PctWeYqzk%3D&skoid=c434e4f5-fb4a-40e0-bccf-2e6ceb2fe55a&sktid=f6b6dd5b-f02f-441a-99a0-162ac5060bd2&skt=2025-06-01T02%3A22%3A00Z&ske=2025-06-03T02%3A32%3A00Z&sks=b&skv=2019-07-07&st=2025-06-01T02%3A35%3A28Z&se=2025-06-01T10%3A45%3A28Z&sp=r&rscd=attachment%3B%20filename%3D%22Job_shy_pea_40r09c05_OutputsAndLogs.zip%22

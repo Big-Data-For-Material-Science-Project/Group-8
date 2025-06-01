@@ -1,0 +1,4 @@
+train: /home/zbyw/MSE544_project_preprocessed/mos2_preprocessed_images/train
+val: /home/zbyw/MSE544_project_preprocessed/mos2_preprocessed_images/val
+nc: 1
+names: [mos2_preprocessed]
